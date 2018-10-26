@@ -36,6 +36,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Task runners Gulp/Grunt**       |      |               |               |                  |                |                 |
 |**NPM scripts**                   |     |               |               |                  |                |                 |
 |**AJAX**                          |     |               |               |                  |                |          .      |
+|**Algos**                          |     |               |               |                  |                |          .      |
+|**Computer Arch**                          |     |               |               |                  |                |          .      |
+|**Django**                          |     |               |               |                  |                |          .      |
 
 ----
 
