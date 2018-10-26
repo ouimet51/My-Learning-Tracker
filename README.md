@@ -52,7 +52,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
+|  ![Soon][Soon]    | eFeb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
@@ -61,12 +61,12 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
 | ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
+| ![Soon][Soon]      | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
+|  |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
+| ![Soon][Soon]  |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
 | ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
+| ![Soon][Soon]  |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
 | ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
 | ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
 | ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
@@ -171,19 +171,19 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [ ] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [ ] Read a book about coding
+* [ ] Help another web developer with something they’re having trouble with
+* [ ] Attend an event about web development
+* [ ] Follow developers you admire on social media
+* [x] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
+* [ ] Complete a technical interview
 * [ ] Participate in a hackathon
-* [x] Deploy a project
+* [ ] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [ ] Get paid to code
